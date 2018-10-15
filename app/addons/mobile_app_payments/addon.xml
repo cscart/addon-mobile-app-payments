@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>mobile_app_payments</id>
+    <version>1.0</version>
+    <priority>4294967294</priority>
+    <position>0</position>
+    <default_language>en</default_language>
+    <status>active</status>
+    <compatibility>
+        <dependencies>storefront_rest_api</dependencies>
+    </compatibility>
+    <functions>
+        <item for="install">fn_mobile_app_payments_install</item>
+        <item for="uninstall">fn_mobile_app_payments_uninstall</item>
+    </functions>
+</addon>

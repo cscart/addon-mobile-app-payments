@@ -1,0 +1,49 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::mobile_app_payments"
+msgid "Mobile App Payments"
+msgstr "Mobile App Payments"
+
+msgctxt "Addons::description::mobile_app_payments"
+msgid "Provides samples on how to implement payment methods compatible with the Mobile app"
+msgstr "Provides samples on how to implement payment methods compatible with the Mobile app"
+
+msgctxt "Languages::mobile_app_payments.redirect"
+msgid "Mobile App Payments: Redirect"
+msgstr "Mobile App Payments: Redirect"
+
+msgctxt "Languages::mobile_app_payments.account_id"
+msgid "Account ID"
+msgstr "Account ID"
+
+msgctxt "Languages::mobile_app_payments.gateway_title"
+msgid "Mobile App Demo Payment Gateway"
+msgstr "Mobile App Demo Payment Gateway"
+
+msgctxt "Languages::mobile_app_payments.gateway_header"
+msgid "Payment gateway"
+msgstr "Payment gateway"
+
+msgctxt "Languages::mobile_app_payments.placing_order"
+msgid "Placing an order for account ID #[account_id]"
+msgstr "Placing an order for account ID #[account_id]"
+
+msgctxt "Languages::mobile_app_payments.total"
+msgid "Order total: [total]"
+msgstr "Order total: [total]"
+
+msgctxt "Languages::mobile_app_payments.next_step"
+msgid "Select next step:"
+msgstr "Select next step:"
+
+msgctxt "Languages::mobile_app_payments.cancel_and_return"
+msgid "Cancel and return to the app"
+msgstr "Cancel and return to the app"
+
+msgctxt "Languages::mobile_app_payments.finish_payment"
+msgid "Finish payment"
+msgstr "Finish payment"
